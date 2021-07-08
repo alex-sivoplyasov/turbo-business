@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ssZn5E6m7kRYYyrQUCwyH0wovr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\turbo-business\dist" />
+      <recent name="C:\projects\turbo-business\dist\images" />
+      <recent name="C:\projects\turbo-business\dist\images\work" />
+      <recent name="C:\projects\turbo-business\dist\images\benefit" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="" />
+      <created>1621663450759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621663450759</updated>
+      <workItem from="1621663456216" duration="3863000" />
+      <workItem from="1621675840262" duration="1780000" />
+      <workItem from="1621760559088" duration="2324000" />
+      <workItem from="1624269640926" duration="5303000" />
+      <workItem from="1624340469934" duration="1130000" />
+      <workItem from="1624459594316" duration="5721000" />
+      <workItem from="1624609525015" duration="597000" />
+      <workItem from="1624883582948" duration="1482000" />
+      <workItem from="1624895177179" duration="318000" />
+      <workItem from="1625385434280" duration="1605000" />
+      <workItem from="1625477515632" duration="24000" />
+      <workItem from="1625569542639" duration="6431000" />
+      <workItem from="1625582452323" duration="1669000" />
+      <workItem from="1625661659575" duration="149000" />
+      <workItem from="1625737970013" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
