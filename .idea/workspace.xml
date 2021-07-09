@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="" />
+    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/contacts/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/contacts/boxes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/benefit/coordinator.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/coordinator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/benefit/employee.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/employee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/benefit/investor.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/investor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ssZn5E6m7kRYYyrQUCwyH0wovr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,17 +42,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/images" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\projects\turbo-business\dist" />
       <recent name="C:\projects\turbo-business\dist\images" />
-      <recent name="C:\projects\turbo-business\dist\images\work" />
+      <recent name="C:\projects\turbo-business\dist\images\contacts" />
       <recent name="C:\projects\turbo-business\dist\images\benefit" />
+      <recent name="C:\projects\turbo-business\dist" />
+      <recent name="C:\projects\turbo-business\dist\images\work" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,11 +79,24 @@
       <workItem from="1625569542639" duration="6431000" />
       <workItem from="1625582452323" duration="1669000" />
       <workItem from="1625661659575" duration="149000" />
-      <workItem from="1625737970013" duration="162000" />
+      <workItem from="1625737970013" duration="13576000" />
+      <workItem from="1625805477910" duration="2874000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
