@@ -4,18 +4,26 @@ const cities = {
   mgn: {
     city: ['53.407163', '58.980291'],
     coordinates: ['53.436617', '58.955372'],
+    address: 'Автомобилистов 16в',
+    name: 'Магнитогорск'
   },
   askarovo: {
     city: ['53.336339', '58.511497'],
-    coordinates: ['53.330219', '58.514398']
+    coordinates: ['53.330219', '58.514398'],
+    address: 'Рауфа Давлетова 6/3',
+    name: 'Аскарово'
   },
   uchaly: {
     city: ['54.319181', '59.378640'],
-    coordinates: ['54.316329', '59.377185']
+    coordinates: ['54.316329', '59.377185'],
+    address: 'Ленина 25а',
+    name: 'Учалы'
   },
   beloreck: {
     city: ['53.967621', '58.410023'],
-    coordinates: ['53.968257', '58.410229']
+    coordinates: ['53.968257', '58.410229'],
+    address: 'Карла Маркса 72',
+    name: 'Белорецк'
   }
 }
 
@@ -34,7 +42,14 @@ function init() {
   });
   myMap.controls.add(zoomControl);
 
-  const placemark = new ymaps.Placemark(cities.mgn.coordinates, {}, {
+  const balloonContent = `
+    <h3>${cities.mgn.name}</h3>
+    <div>Адрес: ${cities.mgn.address}</div>
+  `;
+  const placemark = new ymaps.Placemark(cities.mgn.coordinates, {
+    balloonContent,
+  }, {
+    iconLayout: 'default#image',
     balloonCloseButton: false,
     hideIconOnBalloonOpen: false
   })
@@ -68,7 +83,13 @@ selectItems.forEach( selectItem => {
     select.classList.remove('open')
     myMap.setCenter(cities[cityId].coordinates, 15)
 
-    const placemark = new ymaps.Placemark(cities[cityId].coordinates, {}, {
+    const balloonContent = `
+    <h3>${cities[cityId].name}</h3>
+    <div>Адрес: ${cities[cityId].address}</div>
+  `;
+    const placemark = new ymaps.Placemark(cities[cityId].coordinates, {
+      balloonContent,
+    }, {
       balloonCloseButton: false,
       hideIconOnBalloonOpen: false
     })

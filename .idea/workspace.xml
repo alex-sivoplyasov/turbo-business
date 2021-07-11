@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images/contacts/box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images/contacts/boxes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images/help.png" afterDir="false" />
+    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="Работаю над мобильной версией">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/benefit/coordinator.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/coordinator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/benefit/employee.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/employee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/benefit/investor.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/benefit/investor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
@@ -42,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -80,8 +74,18 @@
       <workItem from="1625582452323" duration="1669000" />
       <workItem from="1625661659575" duration="149000" />
       <workItem from="1625737970013" duration="13576000" />
-      <workItem from="1625805477910" duration="2874000" />
+      <workItem from="1625805477910" duration="2961000" />
+      <workItem from="1625821682073" duration="2889000" />
+      <workItem from="1625983605398" duration="6737000" />
     </task>
+    <task id="LOCAL-00001" summary="Работаю над мобильной версией">
+      <created>1625808476620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625808476620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +102,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Работаю над мобильной версией" />
+    <option name="LAST_COMMIT_MESSAGE" value="Работаю над мобильной версией" />
   </component>
 </project>
