@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="Работаю над мобильной версией">
-      <change afterPath="$PROJECT_DIR$/dist/images/advantages/sweet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images/hero/pillow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images/shops/flower.png" afterDir="false" />
+    <list default="true" id="5d642b02-13a1-4c02-8269-415776ac3d40" name="Default Changelist" comment="Правки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
@@ -39,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../turbo-pvz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -84,6 +81,9 @@
       <workItem from="1626689050320" duration="602000" />
       <workItem from="1626940389640" duration="1816000" />
       <workItem from="1626957324295" duration="396000" />
+      <workItem from="1626957991861" duration="41000" />
+      <workItem from="1627304879723" duration="1174000" />
+      <workItem from="1627307173495" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="Работаю над мобильной версией">
       <created>1625808476620</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625991505402</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Правки">
+      <created>1626958005554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626958005554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Работаю над мобильной версией" />
-    <option name="LAST_COMMIT_MESSAGE" value="Работаю над мобильной версией" />
+    <MESSAGE value="Правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Правки" />
   </component>
 </project>

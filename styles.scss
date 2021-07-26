@@ -2,10 +2,15 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   overflow-x: hidden;
+  width: 100vw;
 }
 
 div {
   box-sizing: border-box;
+}
+
+.app {
+  overflow-x: hidden;
 }
 
 .header {
@@ -614,6 +619,7 @@ div {
   font-weight: 500;
   color: #ffe038;
   cursor: pointer;
+  z-index: 3;
 }
 
 .partners__text {
@@ -662,6 +668,15 @@ div {
   right: 384px;
   background-image: url(./images/partners/logo.png);
   z-index: 1;
+}
+
+.partners__message {
+  position: absolute;
+  bottom: 146px;
+  color: green;
+  &.error {
+    color: red;
+  }
 }
 
 
@@ -1601,6 +1616,11 @@ div {
       height: 33px;
       font-size: 13px;
       margin-top: 12px;
+    }
+
+    &__message {
+      bottom: 193px;
+      font-size: 10px;
     }
 
     &__background, &__background-boxes {

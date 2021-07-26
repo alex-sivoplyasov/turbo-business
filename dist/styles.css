@@ -1,10 +1,14 @@
 body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  width: 100vw; }
 
 div {
   box-sizing: border-box; }
+
+.app {
+  overflow-x: hidden; }
 
 .header {
   background: #eff8f8;
@@ -448,7 +452,8 @@ div {
   font-size: 23.5px;
   font-weight: 500;
   color: #ffe038;
-  cursor: pointer; }
+  cursor: pointer;
+  z-index: 3; }
 
 .partners__text {
   font-size: 12px;
@@ -492,6 +497,13 @@ div {
   right: 384px;
   background-image: url(./images/partners/logo.png);
   z-index: 1; }
+
+.partners__message {
+  position: absolute;
+  bottom: 146px;
+  color: green; }
+  .partners__message.error {
+    color: red; }
 
 /*CONTACTS*/
 .contacts__container {
@@ -1144,6 +1156,9 @@ div {
       height: 33px;
       font-size: 13px;
       margin-top: 12px; }
+    .partners__message {
+      bottom: 193px;
+      font-size: 10px; }
     .partners__background, .partners__background-boxes {
       display: none; }
     .partners__background-family {
